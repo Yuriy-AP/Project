@@ -17,4 +17,4 @@ Has the following components:
 threshold for revenue growth, and threshold for EBIT margin. 
 3) Constructs and re-balances stock portfolio, based on the considered rules. Runs evaluation of the portfolio performance.
 
-### My project - Complete code for generation of the results
+### my_project.py - Complete code for generation of the results
