@@ -16,3 +16,5 @@ Has the following components:
 2) Implements reversal strategy, but takes specific inputs from the user (e.g. top returns(t-1) quantile,
 threshold for revenue growth, and threshold for EBIT margin. 
 3) Constructs and re-balances stock portfolio, based on the considered rules. Runs evaluation of the portfolio performance.
+
+### My project - Complete code for generation of the results
