@@ -1,5 +1,6 @@
 Yuriy Podvysotskiy
-November 4, 2019
+Updated: November 20, 2019
+Web-app: https://yuriyp.shinyapps.io/investing_app/
 
 ## Project:
 ---------------------------------------------------
