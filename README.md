@@ -14,10 +14,9 @@ Has the following components:
 3) USe the model to construct and re-balance stock portfolio. Evaluation of the portfolio performance.
 
 
-### Plot 2 - USer interaction for portfolio construction:
-1) Uses the data from Plot 1
-2) Implements reversal strategy, but takes specific inputs from the user (e.g. top returns(t-1) quantile,
+### Plot 2 - User interaction for portfolio construction:
+1) Implements reversal strategy, but takes specific inputs from the user (e.g. top returns(t-1) quantile,
 threshold for revenue growth, and threshold for EBIT margin. 
-3) Constructs and re-balances stock portfolio, based on the considered rules. Runs evaluation of the portfolio performance.
+2) Constructs and re-balances stock portfolio, based on the considered rules. Runs evaluation of the portfolio performance.
 
 ### my_project.py - Complete code for generation of the results
